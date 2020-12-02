@@ -1,0 +1,27 @@
+.container-fluid{
+    padding: 3% 15%;
+}
+
+#title {
+    background-color: #ff4c68;
+}
+#titletext {
+    color: white;
+    font-size: 450%;
+    font-family: 'Ubuntu', sans-serif;
+
+    size: 3rem;
+    line-height: 1.5;
+}
+.navbar-nav {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 145%;
+}
+.features-color {
+    
+    font-size: 1000%;
+    color: #ef8172;
+}
+.features-color:hover {
+    color: #ff4c68;
+}
